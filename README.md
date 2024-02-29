@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/devfaisalkhan) 
 
-![Code Coding GIF - Code Coding Programming - Discover   Share GIFs](https://github.com/devfaisalkhan/devfaisalkhan/assets/64373164/84e03df7-dd8a-4427-ba65-c380d2c5b299)
 
 
 # 💻 Tech Stack:
