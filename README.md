@@ -5,13 +5,6 @@
 
 ### <div align="center">I'm Fasial khan, a Full Stack Software Engineer </div>  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
